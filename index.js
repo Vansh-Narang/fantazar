@@ -6,9 +6,6 @@ const PORT = 3000;
 
 app.use(bodyParser.json());
 
-// app.get('/', (req, res) => [
-//     res.send("Hello, world!"),
-// ])
 app.use('/order', orderRouter);
 
 app.listen(PORT, () => {

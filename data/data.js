@@ -14,4 +14,4 @@ const componentData = {
     "L": { "price": 30.00, "part": "Plastic Body" }
 };
 
-module.exports = componentData;
+module.exports = { componentData }
