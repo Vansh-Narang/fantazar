@@ -15,10 +15,10 @@ Clone this repo
 
 cd mobile-factory-api
 
-#Install dependencies:
+# Install dependencies:
 
 npm install
 
-#Running the API
+# Running the API
 
 npm start
